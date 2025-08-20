@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python tooling
+*.log
+
+# Data and models (optional to ignore heavy artifacts)
+# Serie_A_features.csv
+# best_model.pkl
+
+# Streamlit
+.streamlit/
