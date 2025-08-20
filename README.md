@@ -76,7 +76,5 @@ streamlit run streamlite.py
 - A fixed `random_state` is used in training where applicable.
 - Ensure the same `Serie_A.csv` used during training is also available for inference, as pre-match averages depend on historical data.
 
-## License
-Specify your license here (e.g., MIT). If unsure, you can add an MIT License later.
 
 
